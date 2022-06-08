@@ -7,5 +7,6 @@
 helloworld@7myra.gg | Languages: 
 helloworld@7myra.gg | • Java
 helloworld@7myra.gg | • Python
+helloworld@7myra.gg | • Lua
 
 ```
